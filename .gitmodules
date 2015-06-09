@@ -1,0 +1,3 @@
+[submodule "flann"]
+	path = flann
+	url = https://github.com/ros-gbp/flann-release/tree/debian/hydro/precise/flann
