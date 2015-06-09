@@ -1,4 +1,4 @@
 [submodule "src/flann-release"]
 	path = src/flann-release
 	url = https://github.com/ros-gbp/flann-release.git
-	version = debian/hydro/precise/flann
+	branch = debian/hydro/precise/flann
